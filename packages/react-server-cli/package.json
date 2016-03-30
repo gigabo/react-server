@@ -39,5 +39,6 @@
     "gulp-babel": "~6.1.2",
     "gulp-eslint": "0.15.0",
     "react-server-gulp-module-tagger": "0.0.8"
-  }
+  },
+  "publishConfig": { "registry": "http://npm.redfintest.com:4873" }
 }

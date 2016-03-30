@@ -66,5 +66,6 @@
     "superagent": "1.2.0",
     "webpack": "1.4.13",
     "zombie": "4.1.0"
-  }
+  },
+  "publishConfig": { "registry": "http://npm.redfintest.com:4873" }
 }

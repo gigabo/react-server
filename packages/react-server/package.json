@@ -1,6 +1,6 @@
 {
   "name": "react-server",
-  "version": "0.1.4",
+  "version": "0.3.0-hackathon-3",
   "description": "React Server",
   "main": "target/server/server.js",
   "browser": "target/client/client.js",
@@ -62,10 +62,12 @@
     "path-to-regexp": "1.0.1",
     "react": "0.14.2",
     "react-dom": "0.14.2",
-    "react-server-gulp-module-tagger": "^0.1.0",
+    "react-server-gulp-module-tagger": "^0.3.0-hackathon-3",
     "superagent": "1.2.0",
     "webpack": "1.4.13",
     "zombie": "4.1.0"
   },
-  "publishConfig": { "registry": "http://npm.redfintest.com:4873" }
+  "publishConfig": {
+    "registry": "http://npm.redfintest.com:4873"
+  }
 }

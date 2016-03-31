@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-react-server",
-  "version": "0.1.0",
+  "version": "0.3.0-hackathon-3",
   "description": "A recommended Babel config for working with react-server",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
   "author": "Doug Wade <doug.wade@redfin.com>",
   "license": "Apache License 2.0",
   "publishConfig": {
-    "registry": "http://qa-compile-1.redfintest.com:4873"
+    "registry": "http://npm.redfintest.com:4873"
   },
   "dependencies": {
     "babel-plugin-transform-es2015-arrow-functions": "^6.3.13",
@@ -32,6 +32,5 @@
     "babel-plugin-transform-es2015-template-literals": "^6.3.13",
     "babel-plugin-transform-object-rest-spread": "^6.3.13",
     "babel-preset-react": "^6.5.0"
-  },
-  "publishConfig": { "registry": "http://npm.redfintest.com:4873" }
+  }
 }

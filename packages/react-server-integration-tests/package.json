@@ -9,8 +9,8 @@
   "devDependencies": {
     "lodash": "^4.8.2",
     "q": "^1.4.1",
-    "react": "^15.1.0",
-    "react-dom": "^15.1.0",
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1",
     "react-server": "../react-server",
     "react-server-cli": "../react-server-cli",
     "rimraf": "^2.5.2",
